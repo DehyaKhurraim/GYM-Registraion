@@ -76,7 +76,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [dehya.khurraim@gmail.com](mailto:dehya.khurraim@gmail.com).
 
 Enjoy your GYM registration experience!
 
